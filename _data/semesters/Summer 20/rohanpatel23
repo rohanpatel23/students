@@ -1,0 +1,13 @@
+   {
+       "emoji": ":bowtie:",
+       "role": "Student",
+       "introduction": "Hello, I am Rohan Patel and I am very excited to learn and work together with everyone this semester!",
+       "achievements": [
+           "achievement1 - Made it to Semi-Finals in Collegiate League of Legends Tournament, but due to Covid-19 the rest of the tournament was cancelled",
+           
+       ],
+       "links": {
+           "linkedin": "https://www.linkedin.com/in/rohanpatel23/",
+           "twitter": "https://twitter.com/rohan_patel_23",
+       }
+   }
